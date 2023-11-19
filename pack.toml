@@ -1,0 +1,12 @@
+name = "Minecraft 1 . 20 Survival Mods"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "250a0872c232b01957578aff568ea678d0b7ca0daf8f6e3fd796e6545b443099"
+
+[versions]
+fabric = "0.14.24"
+minecraft = "1.20.2"

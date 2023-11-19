@@ -1,0 +1,41 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/carpet-extra.pw.toml"
+hash = "029e4b7bdea59b13a65ccb1fa2a77932e6f367cfa92d75aa355e828a943b856e"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "3346013c36376766f129ff9f6329a671b7d6f0e1d7bcdddb711a2f71811af0cd"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "6c6ebc716eee42c2f60899e53dfcea8ac6e374222d1eff7eff29b9f599012bb5"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "293f06651cc903947ae422f5e612c73d66154453ad1390bda63920370671b968"
+metafile = true
+
+[[files]]
+file = "mods/servux.pw.toml"
+hash = "5e48150b1d407d8dc7ec30e14a6081a506fab1178737a3e6313e4e787c78adbb"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat-discord-bridge.pw.toml"
+hash = "42080039d2384ae443d46aa9e2aeac57954d41dd80e18fa101c101f39a3da6fb"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "3aca46a88ce71db720d57721d72a77267aa48d0dff519f5fb1739c1a1afce873"
+metafile = true
+
+[[files]]
+file = "mods/syncmatica.pw.toml"
+hash = "b8686f7382b6667de82d37b7f0ef8a33955b6ee65231d0178fb78d6eb14bf5a5"
+metafile = true
