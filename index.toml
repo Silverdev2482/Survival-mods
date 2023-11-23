@@ -5,11 +5,6 @@ file = "LICENSE"
 hash = "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
 
 [[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "9ab9f1ada10bc693019cdfea96fa09bcbaa3f27c8350e2e23fc45927f838cd9b"
-metafile = true
-
-[[files]]
 file = "mods/carpet-extra.pw.toml"
 hash = "029e4b7bdea59b13a65ccb1fa2a77932e6f367cfa92d75aa355e828a943b856e"
 metafile = true
@@ -32,16 +27,6 @@ metafile = true
 [[files]]
 file = "mods/fastback.pw.toml"
 hash = "a45476df6278ba4fb6018a93d3bc66e4a243a3b58e2ba3709a6e4c355553a507"
-metafile = true
-
-[[files]]
-file = "mods/ferrite-core.pw.toml"
-hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
-metafile = true
-
-[[files]]
-file = "mods/lithium.pw.toml"
-hash = "ed27ecb297016accc41e9894b6e11d6c46b455211e358afa6218ce629ef56978"
 metafile = true
 
 [[files]]
