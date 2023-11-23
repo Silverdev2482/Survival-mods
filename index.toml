@@ -40,16 +40,6 @@ hash = "5e48150b1d407d8dc7ec30e14a6081a506fab1178737a3e6313e4e787c78adbb"
 metafile = true
 
 [[files]]
-file = "mods/simple-voice-chat-discord-bridge.pw.toml"
-hash = "42080039d2384ae443d46aa9e2aeac57954d41dd80e18fa101c101f39a3da6fb"
-metafile = true
-
-[[files]]
-file = "mods/simple-voice-chat.pw.toml"
-hash = "3aca46a88ce71db720d57721d72a77267aa48d0dff519f5fb1739c1a1afce873"
-metafile = true
-
-[[files]]
 file = "mods/syncmatica.pw.toml"
 hash = "b8686f7382b6667de82d37b7f0ef8a33955b6ee65231d0178fb78d6eb14bf5a5"
 metafile = true
