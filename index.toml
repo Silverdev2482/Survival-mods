@@ -15,11 +15,6 @@ hash = "3346013c36376766f129ff9f6329a671b7d6f0e1d7bcdddb711a2f71811af0cd"
 metafile = true
 
 [[files]]
-file = "mods/enhanced-groups.pw.toml"
-hash = "b7516df35151a52b057de49c5b9a359c1dfc481d933ddf82f45fd8e6453ab07a"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "6c6ebc716eee42c2f60899e53dfcea8ac6e374222d1eff7eff29b9f599012bb5"
 metafile = true
