@@ -5,14 +5,17 @@ file = "LICENSE"
 hash = "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
 
 [[files]]
+file = "README.md"
+hash = "6aa8e05d19e4d707296e4e381d222f7245ebf7fd90bce650ea3ea57e6217bbc6"
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "bfd6aac603c9f2a577892c936cf1550010b92fdbe564f8253de8dbe34a562924"
 metafile = true
 
 [[files]]
-file = "mods/carpet-extra.pw.toml"
-hash = "029e4b7bdea59b13a65ccb1fa2a77932e6f367cfa92d75aa355e828a943b856e"
-metafile = true
+file = "mods/carpet-extra-1.20.3-1.4.128.jar"
+hash = "76d8d050602a19d6ce8ca71ad3ac10689505c78ccd630a4f685cddd5d9c536cd"
 
 [[files]]
 file = "mods/carpet.pw.toml"
