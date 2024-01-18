@@ -9,8 +9,13 @@ file = "README.md"
 hash = "6aa8e05d19e4d707296e4e381d222f7245ebf7fd90bce650ea3ea57e6217bbc6"
 
 [[files]]
+file = "mods/afkplus.pw.toml"
+hash = "41c3b461cb0143cbc2b7bba0f89441107d2077c82539b429f8984c2b5e643e1e"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "bfd6aac603c9f2a577892c936cf1550010b92fdbe564f8253de8dbe34a562924"
+hash = "d3a7764f686bd4c6e44ef7e2ec0581fdefeb9ed3d4aab1db63aa58821a264d61"
 metafile = true
 
 [[files]]
@@ -23,18 +28,23 @@ hash = "a44e6eac50227e4346d507836214f8ec462e74a264307253ec19bd3343ad0c7f"
 metafile = true
 
 [[files]]
+file = "mods/elytra_trinket.pw.toml"
+hash = "ec4d51bf5ef72aa597636e2c924647f81cc3e246626f3abf358bc5ccac8b00fd"
+metafile = true
+
+[[files]]
 file = "mods/enhanced-groups.pw.toml"
-hash = "15061275f7dc26239c94bafd128688bfee4f43454d404e4206c008a33fb16a8c"
+hash = "6d466d9eaabec916c40e9fbde7f92ec81efe1185e0bad8d2368c6b1dfbd28528"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "ab60349289cadb218ec0e62c45c15d0da6a02aac92011cdd676312fc69009b69"
+hash = "eb7d18a31cda57ad548a95090da961b68360b8ff8387370a054635279fea0604"
 metafile = true
 
 [[files]]
 file = "mods/fastback.pw.toml"
-hash = "853c72a5452c1106c6d0fe0cd7c157c58b0ec91100e83096ef64e303dd731e31"
+hash = "d1bdb82073c360f9ef574c199be2c6a48f1b76ea628bd07be29465f71520b1ae"
 metafile = true
 
 [[files]]
@@ -50,6 +60,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "a045df0a5d03ef89d92ca9318aa42a5a5e7617b37dd38d32b0a7058c0f6f4ef7"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "40355c467436dcedd00e5252c7860fc48392801e42011430719d192440964fbe"
 metafile = true
 
 [[files]]
