@@ -1,0 +1,13 @@
+name = "Revert 23w46a"
+filename = "Revert-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/1XAefaMu/versions/mSq3F5zN/Revert-1.0.0.jar"
+hash-format = "sha1"
+hash = "ceadeec065bfd00c7774c79a956de37389265e68"
+
+[update]
+[update.modrinth]
+mod-id = "1XAefaMu"
+version = "mSq3F5zN"
