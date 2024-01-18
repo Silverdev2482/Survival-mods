@@ -88,6 +88,6 @@ hash = "b8686f7382b6667de82d37b7f0ef8a33955b6ee65231d0178fb78d6eb14bf5a5"
 metafile = true
 
 [[files]]
-file = "mods/trinkets.pw.toml"
-hash = "44ab19941b58049d859553df1a1a9d31e5eaf0eb98a8b7c4d3f79d9b39e1c368"
+file = "mods/trinkets-polymer.pw.toml"
+hash = "7b64be3f39e8ad360be9b45bb5c2704f66c16142532dbb2e1b8119ae7371634c"
 metafile = true
