@@ -14,6 +14,11 @@ hash = "41c3b461cb0143cbc2b7bba0f89441107d2077c82539b429f8984c2b5e643e1e"
 metafile = true
 
 [[files]]
+file = "mods/axiom.pw.toml"
+hash = "1f77fa07cb26581069900d5703e8a160cbb0f5e405350b393ccbaf6b2e83d007"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "d3a7764f686bd4c6e44ef7e2ec0581fdefeb9ed3d4aab1db63aa58821a264d61"
 metafile = true
