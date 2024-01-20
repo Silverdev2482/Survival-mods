@@ -96,3 +96,8 @@ metafile = true
 file = "mods/trinkets.pw.toml"
 hash = "44ab19941b58049d859553df1a1a9d31e5eaf0eb98a8b7c4d3f79d9b39e1c368"
 metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "4d881eccb9ed90e0be7deeb37ff1ae1c754618eef3174dadd286bc1b9ec1283e"
+metafile = true
