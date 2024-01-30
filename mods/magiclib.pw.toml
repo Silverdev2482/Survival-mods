@@ -1,0 +1,13 @@
+name = "MagicLib"
+filename = "magiclib-all-0.7.398+fe2125a-stable.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mv1zH6ln/versions/MWMg7DwN/magiclib-all-0.7.398%2Bfe2125a-stable.jar"
+hash-format = "sha1"
+hash = "1e9fe904c3526470c6f8457967ac31728fecccba"
+
+[update]
+[update.modrinth]
+mod-id = "mv1zH6ln"
+version = "MWMg7DwN"

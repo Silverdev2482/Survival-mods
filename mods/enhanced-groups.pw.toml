@@ -1,13 +1,13 @@
 name = "Simple Voice Chat Enhanced Groups"
-filename = "instantgroup-fabric-1.20.4-1.5.2.jar"
+filename = "instantgroup-fabric-1.20.4-1.6.0.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/1LE7mid6/versions/gKlm3qrT/instantgroup-fabric-1.20.4-1.5.2.jar"
+url = "https://cdn.modrinth.com/data/1LE7mid6/versions/lLqgxKDX/instantgroup-fabric-1.20.4-1.6.0.jar"
 hash-format = "sha1"
-hash = "568a1f2e7c7bbfc0a8f70101cc7a6dafefb6b215"
+hash = "a9fbe4e807c20edf8176cf8514706b8bff491bfb"
 
 [update]
 [update.modrinth]
 mod-id = "1LE7mid6"
-version = "gKlm3qrT"
+version = "lLqgxKDX"
