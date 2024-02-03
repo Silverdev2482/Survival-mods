@@ -84,6 +84,11 @@ hash = "b54bcd4234fc406b6bf741bd4954deff8a50551faf84e2b0e60ff74b46bcce26"
 metafile = true
 
 [[files]]
+file = "mods/mcdiscordchat.pw.toml"
+hash = "51948e096e5edc7e7a2c148b0204b0bf23b2cc5b31185bcfbd6cc726caaa7497"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "a045df0a5d03ef89d92ca9318aa42a5a5e7617b37dd38d32b0a7058c0f6f4ef7"
 metafile = true
