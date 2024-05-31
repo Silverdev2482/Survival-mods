@@ -1,0 +1,13 @@
+name = "Minimap Sync"
+filename = "minimapsync-1.1.2+mc1.20.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/X8T1wp43/versions/YQZL3U5S/minimapsync-1.1.2%2Bmc1.20.4.jar"
+hash-format = "sha1"
+hash = "4751c520ac8112f8f0aa69b8c8ea9786c98e2d62"
+
+[update]
+[update.modrinth]
+mod-id = "X8T1wp43"
+version = "YQZL3U5S"

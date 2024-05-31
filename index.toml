@@ -10,17 +10,22 @@ hash = "6aa8e05d19e4d707296e4e381d222f7245ebf7fd90bce650ea3ea57e6217bbc6"
 
 [[files]]
 file = "mods/afkplus.pw.toml"
-hash = "41c3b461cb0143cbc2b7bba0f89441107d2077c82539b429f8984c2b5e643e1e"
+hash = "54c7cb7fcc15672dbd910014efccbe8054338248627e654f6c21cb18d1a5c571"
 metafile = true
 
 [[files]]
 file = "mods/axiom.pw.toml"
-hash = "1f77fa07cb26581069900d5703e8a160cbb0f5e405350b393ccbaf6b2e83d007"
+hash = "15176b7f252e179cc6cf646cb21fbaea97e37de8dc527913e1e34ae244c8c5af"
+metafile = true
+
+[[files]]
+file = "mods/buildevents.pw.toml"
+hash = "6de894b1c471db9c9fb5ca330d02f8f8f1c4f83606fd069c39b93db4bea63250"
 metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "d3a7764f686bd4c6e44ef7e2ec0581fdefeb9ed3d4aab1db63aa58821a264d61"
+hash = "e2c268027d63e997ef750bcbc76e9ee29c775b7121a0be28a121bc4f332a7092"
 metafile = true
 
 [[files]]
@@ -34,18 +39,23 @@ hash = "590d03cf3e5e0915028c371ad4f5b7d0ac37b8108f06c242febbdbd131dd56f2"
 metafile = true
 
 [[files]]
-file = "mods/carpet-tctc.pw.toml"
-hash = "a8510874ab3803fb0112c70516040ff850f649592d7b54e2b7998876b28d4698"
+file = "mods/carpet-tctc-addition.pw.toml"
+hash = "3b1bd7b65460e5945f47979a24ec6728eaacad77b3c50dbf42ce534b82ee02c7"
 metafile = true
 
 [[files]]
 file = "mods/carpet-tis-addition.pw.toml"
-hash = "6ea66a58b0188c6e5ec3375e066c03ed63c2dbd72289c5c9ad27803612f3cc58"
+hash = "d0b3fc29fa1da52f028fdeb2708c75913b963e1ea56fbb88db94e48c30786ecf"
 metafile = true
 
 [[files]]
 file = "mods/carpet.pw.toml"
-hash = "a44e6eac50227e4346d507836214f8ec462e74a264307253ec19bd3343ad0c7f"
+hash = "1964f8bf4fe2e7b29b5f98ba1cef357a0527307b9241bf2ddfd59b74eb9a4a2d"
+metafile = true
+
+[[files]]
+file = "mods/elytra-trims.pw.toml"
+hash = "ab774cbef7b1518ad9e50f34e918791047f1272a273ee7b51dedb6de367239c3"
 metafile = true
 
 [[files]]
@@ -60,12 +70,17 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "e040f3b3925a1d08e1b0b787a10816303d79cec5902c8118baec4d6fea036b74"
+hash = "fe7dbe82cf758cc6a73e96f57229e6be3696588388da757fbd936ac8c08c224f"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
 metafile = true
 
 [[files]]
 file = "mods/fastback.pw.toml"
-hash = "853c72a5452c1106c6d0fe0cd7c157c58b0ec91100e83096ef64e303dd731e31"
+hash = "478c1d5cfdde914e4a8ec513a73ef9e7742c50bb934a55e57c395a46c735251a"
 metafile = true
 
 [[files]]
@@ -80,17 +95,27 @@ metafile = true
 
 [[files]]
 file = "mods/magiclib.pw.toml"
-hash = "b54bcd4234fc406b6bf741bd4954deff8a50551faf84e2b0e60ff74b46bcce26"
+hash = "22913a6fec911ad240c2f10155a7458012f5389607bbdcb83cb03feac217779d"
 metafile = true
 
 [[files]]
 file = "mods/mcdiscordchat.pw.toml"
-hash = "51948e096e5edc7e7a2c148b0204b0bf23b2cc5b31185bcfbd6cc726caaa7497"
+hash = "94f33f4ff940a711682d51f34ee48c5dca9d4357aa4142ba45ae6d3be8730a41"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
+metafile = true
+
+[[files]]
+file = "mods/minimap-sync.pw.toml"
+hash = "9daace00012414e4f9615a2d33026375eb1765a11b5b9709747325368a76fc67"
 metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "a045df0a5d03ef89d92ca9318aa42a5a5e7617b37dd38d32b0a7058c0f6f4ef7"
+hash = "a6a57004f5990ae59be0b89eb2edc5f50e2233d0410bd5f8060d58401592e0ef"
 metafile = true
 
 [[files]]
@@ -110,7 +135,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "83f6cfd1ffacc5cf35a0c189ce17dc288858c93a4b4abaf338fe6a6703789d58"
+hash = "b802b607dc76cbaba1cbf085be896d2c6996bef39b64a09fcf5ddb8b6a0ad968"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "3f1cdc39c7c76eba1c62b6f22d07f9507ff1c9a9e860f179481ec63449451a79"
 metafile = true
 
 [[files]]
@@ -120,10 +150,10 @@ metafile = true
 
 [[files]]
 file = "mods/trinkets.pw.toml"
-hash = "44ab19941b58049d859553df1a1a9d31e5eaf0eb98a8b7c4d3f79d9b39e1c368"
+hash = "9b42989d1485831cb2c269c9fe6118b6dfc80397e050b3e79cfeca4e1d626b45"
 metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "4d881eccb9ed90e0be7deeb37ff1ae1c754618eef3174dadd286bc1b9ec1283e"
+hash = "5703543a503d90346eedf4ac22eb3bc1370007d0b5f86b11a18b322e04a4f44a"
 metafile = true
