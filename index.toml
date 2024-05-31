@@ -99,11 +99,6 @@ hash = "22913a6fec911ad240c2f10155a7458012f5389607bbdcb83cb03feac217779d"
 metafile = true
 
 [[files]]
-file = "mods/mcdiscordchat.pw.toml"
-hash = "94f33f4ff940a711682d51f34ee48c5dca9d4357aa4142ba45ae6d3be8730a41"
-metafile = true
-
-[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
 metafile = true
