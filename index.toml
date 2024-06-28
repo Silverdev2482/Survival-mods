@@ -14,11 +14,6 @@ hash = "54c7cb7fcc15672dbd910014efccbe8054338248627e654f6c21cb18d1a5c571"
 metafile = true
 
 [[files]]
-file = "mods/axiom.pw.toml"
-hash = "15176b7f252e179cc6cf646cb21fbaea97e37de8dc527913e1e34ae244c8c5af"
-metafile = true
-
-[[files]]
 file = "mods/buildevents.pw.toml"
 hash = "6de894b1c471db9c9fb5ca330d02f8f8f1c4f83606fd069c39b93db4bea63250"
 metafile = true
@@ -45,7 +40,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-tis-addition.pw.toml"
-hash = "d0b3fc29fa1da52f028fdeb2708c75913b963e1ea56fbb88db94e48c30786ecf"
+hash = "68287239eeb882da812ca7def7f7645872ff685dd0d800d9a285057f4038fa05"
 metafile = true
 
 [[files]]
@@ -55,7 +50,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-trims.pw.toml"
-hash = "ab774cbef7b1518ad9e50f34e918791047f1272a273ee7b51dedb6de367239c3"
+hash = "ea4f0b85bd77b946b5fe9778dcbad3fbf3c8d4043cc5a4f452c41a3d6f0aeca4"
 metafile = true
 
 [[files]]
@@ -80,12 +75,17 @@ metafile = true
 
 [[files]]
 file = "mods/fastback.pw.toml"
-hash = "478c1d5cfdde914e4a8ec513a73ef9e7742c50bb934a55e57c395a46c735251a"
+hash = "0257c7e26107f57176b94fea7b1731e2020cc663ba3b646aad94d4297dcebec3"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4146027b92b4885fddec00435233c61c3728b5e09265982ab187021519a4fa89"
+metafile = true
+
+[[files]]
+file = "mods/ledger.pw.toml"
+hash = "77f066e333bbaa0e22d1888cd61c22f56c3715ccdc0180f1829aed81cf9062c5"
 metafile = true
 
 [[files]]
@@ -115,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
-hash = "40355c467436dcedd00e5252c7860fc48392801e42011430719d192440964fbe"
+hash = "b59864ae9771e7f87b85389db2ced8e6703065a9b1bd3369f82ea2d3dbc27352"
 metafile = true
 
 [[files]]
@@ -130,7 +130,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "b802b607dc76cbaba1cbf085be896d2c6996bef39b64a09fcf5ddb8b6a0ad968"
+hash = "8ef792d3eeb1e5d220a01ba035c887afc4cfd06f8b5daffe2770bdb6a6bef512"
 metafile = true
 
 [[files]]
@@ -146,9 +146,4 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "9b42989d1485831cb2c269c9fe6118b6dfc80397e050b3e79cfeca4e1d626b45"
-metafile = true
-
-[[files]]
-file = "mods/worldedit.pw.toml"
-hash = "5703543a503d90346eedf4ac22eb3bc1370007d0b5f86b11a18b322e04a4f44a"
 metafile = true
