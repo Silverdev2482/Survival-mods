@@ -9,6 +9,11 @@ file = "README.md"
 hash = "6aa8e05d19e4d707296e4e381d222f7245ebf7fd90bce650ea3ea57e6217bbc6"
 
 [[files]]
+file = "mods/.pw.toml"
+hash = "a5564c08715d227169e33746e3585280999da3279d21f18e86bffa2c18b59fd6"
+metafile = true
+
+[[files]]
 file = "mods/afkplus.pw.toml"
 hash = "54c7cb7fcc15672dbd910014efccbe8054338248627e654f6c21cb18d1a5c571"
 metafile = true

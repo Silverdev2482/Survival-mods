@@ -1,0 +1,7 @@
+name = "-"
+filename = "download"
+
+[download]
+url = "https://gitlab.com/s809/minecraft-lod-mod/-/jobs/artifacts/main/download?job=build:%20%5B1.20.4%5D"
+hash-format = "sha256"
+hash = "87c40fe0eb806d60dec8bc9fcd4eebfb2ef4f5c65274c4fe264443e584b8cce2"
