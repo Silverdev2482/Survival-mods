@@ -113,6 +113,11 @@ hash = "3dedde5213176d72e1c353877fa44315945e8f3da2ba05f5679d81e9f558bb1d"
 metafile = true
 
 [[files]]
+file = "mods/luckperms.pw.toml"
+hash = "0654725d644d971636f3b08dd7456ca7e0b8f25068de69c4b5aea256ee3a0f66"
+metafile = true
+
+[[files]]
 file = "mods/magiclib.pw.toml"
 hash = "22913a6fec911ad240c2f10155a7458012f5389607bbdcb83cb03feac217779d"
 metafile = true
