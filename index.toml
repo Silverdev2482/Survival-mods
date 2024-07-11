@@ -64,7 +64,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-trims.pw.toml"
-hash = "ea4f0b85bd77b946b5fe9778dcbad3fbf3c8d4043cc5a4f452c41a3d6f0aeca4"
+hash = "badd98f51835ed323bc39d6db4fcdc0023a69934fd72ab5f28876628fdbb0fb8"
 metafile = true
 
 [[files]]
@@ -154,7 +154,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "8ef792d3eeb1e5d220a01ba035c887afc4cfd06f8b5daffe2770bdb6a6bef512"
+hash = "f9528821aa643fdf06c6ee1a5e5e8a2f401949c557d56bbfd30b38eb165e0d12"
 metafile = true
 
 [[files]]
