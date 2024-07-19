@@ -64,7 +64,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-trims.pw.toml"
-hash = "badd98f51835ed323bc39d6db4fcdc0023a69934fd72ab5f28876628fdbb0fb8"
+hash = "9c0230650fcdae1d0cccd066d7f0d81dd01859960b4b508930e065869e29e73d"
 metafile = true
 
 [[files]]
@@ -114,7 +114,7 @@ metafile = true
 
 [[files]]
 file = "mods/magiclib.pw.toml"
-hash = "22913a6fec911ad240c2f10155a7458012f5389607bbdcb83cb03feac217779d"
+hash = "554d34c4c9c708cb157863ab85b43f8c8fa3a33e65be27bf1963b05857d71edf"
 metafile = true
 
 [[files]]
