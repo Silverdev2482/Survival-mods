@@ -14,10 +14,6 @@ hash = "a5564c08715d227169e33746e3585280999da3279d21f18e86bffa2c18b59fd6"
 metafile = true
 
 [[files]]
-file = "mods/DistantHorizons-2.1.3-a-dev-1.20.4.jar"
-hash = "2aa74e29307151dd6d4526da2415becbacce5ed9dd24d02ac6cb876848326a29"
-
-[[files]]
 file = "mods/afkplus.pw.toml"
 hash = "54c7cb7fcc15672dbd910014efccbe8054338248627e654f6c21cb18d1a5c571"
 metafile = true
@@ -40,11 +36,6 @@ metafile = true
 [[files]]
 file = "mods/carpet-fixes.pw.toml"
 hash = "590d03cf3e5e0915028c371ad4f5b7d0ac37b8108f06c242febbdbd131dd56f2"
-metafile = true
-
-[[files]]
-file = "mods/carpet-tctc-addition.pw.toml"
-hash = "3b1bd7b65460e5945f47979a24ec6728eaacad77b3c50dbf42ce534b82ee02c7"
 metafile = true
 
 [[files]]
