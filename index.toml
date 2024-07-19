@@ -94,11 +94,6 @@ hash = "5e69fb2b5ce1a922740fa83b58faca107880f124ca839be616f67dd0cf9ede8e"
 metafile = true
 
 [[files]]
-file = "mods/ledger.pw.toml"
-hash = "77f066e333bbaa0e22d1888cd61c22f56c3715ccdc0180f1829aed81cf9062c5"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "3dedde5213176d72e1c353877fa44315945e8f3da2ba05f5679d81e9f558bb1d"
 metafile = true
