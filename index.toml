@@ -54,6 +54,11 @@ hash = "dc8b1e1529fc9afa8969e871fed2b70909ec2599b05e53ba094a9e0231071976"
 metafile = true
 
 [[files]]
+file = "mods/discord-mc-chat.pw.toml"
+hash = "51ac010204bbf9658667526d49466ee176d8d10d5c492162fd3ef9cacad53fdc"
+metafile = true
+
+[[files]]
 file = "mods/elytra-trims.pw.toml"
 hash = "9c0230650fcdae1d0cccd066d7f0d81dd01859960b4b508930e065869e29e73d"
 metafile = true
