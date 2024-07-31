@@ -14,6 +14,10 @@ hash = "a5564c08715d227169e33746e3585280999da3279d21f18e86bffa2c18b59fd6"
 metafile = true
 
 [[files]]
+file = "mods/CarpetTCTCAddition-1.20.4-2.2.212+46263e3-stable.jar"
+hash = "998c260b3a4918481800b0e9488136053c5505665dd8b32485281c70d4126d61"
+
+[[files]]
 file = "mods/afkplus.pw.toml"
 hash = "54c7cb7fcc15672dbd910014efccbe8054338248627e654f6c21cb18d1a5c571"
 metafile = true
@@ -39,18 +43,13 @@ hash = "590d03cf3e5e0915028c371ad4f5b7d0ac37b8108f06c242febbdbd131dd56f2"
 metafile = true
 
 [[files]]
-file = "mods/carpet-tctc.pw.toml"
-hash = "fefdb0e5336c039cee54a5bb7bc97f73914c54f46cb8b8e82a4bd12606a0023f"
-metafile = true
-
-[[files]]
 file = "mods/carpet-tis-addition.pw.toml"
 hash = "6ccaab8dfa9fd9276e53728fa4efcbbff7e4daf64f56332a480e135639af5362"
 metafile = true
 
 [[files]]
 file = "mods/carpet.pw.toml"
-hash = "1964f8bf4fe2e7b29b5f98ba1cef357a0527307b9241bf2ddfd59b74eb9a4a2d"
+hash = "868db465e6635a883d1b692d56164c1c14d687d960a93e6f9d9fd74c1cd43f2e"
 metafile = true
 
 [[files]]
@@ -115,7 +114,7 @@ metafile = true
 
 [[files]]
 file = "mods/magiclib.pw.toml"
-hash = "554d34c4c9c708cb157863ab85b43f8c8fa3a33e65be27bf1963b05857d71edf"
+hash = "0e4fa72958d991cc521acc77f7e5490e077dbb3083eeb1ed77144ced60511b89"
 metafile = true
 
 [[files]]
