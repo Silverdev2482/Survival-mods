@@ -1,0 +1,7 @@
+name = "carpet-tctc"
+filename = "CarpetTCTCAddition-1.20.4-2.2.212+46263e3-stable.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/vbBQ6dVH/versions/dCJR5dai/CarpetTCTCAddition-1.20.4-2.2.212%2B46263e3-stable.jar"
+hash-format = "sha256"
+hash = "998c260b3a4918481800b0e9488136053c5505665dd8b32485281c70d4126d61"
