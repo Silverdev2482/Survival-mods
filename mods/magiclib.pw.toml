@@ -3,11 +3,11 @@ filename = "MagicLib-mc1.20.4-fabric-0.8.576-stable.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/mv1zH6ln/versions/Wc7ci2Zb/MagicLib-mc1.20.4-fabric-0.8.576-stable.jar"
 hash-format = "sha1"
 hash = "a47373404f51cf2f8099553af64ff63220b4773c"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 5530827
-project-id = 576459
+[update.modrinth]
+mod-id = "mv1zH6ln"
+version = "Wc7ci2Zb"

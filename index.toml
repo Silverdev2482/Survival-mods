@@ -39,6 +39,11 @@ hash = "590d03cf3e5e0915028c371ad4f5b7d0ac37b8108f06c242febbdbd131dd56f2"
 metafile = true
 
 [[files]]
+file = "mods/carpet-tctc-addition.pw.toml"
+hash = "49e4067035837635b6c24ed7156620bcee4541006d7803af721deb3f93cb23e3"
+metafile = true
+
+[[files]]
 file = "mods/carpet-tis-addition.pw.toml"
 hash = "6ccaab8dfa9fd9276e53728fa4efcbbff7e4daf64f56332a480e135639af5362"
 metafile = true
