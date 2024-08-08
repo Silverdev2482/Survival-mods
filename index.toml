@@ -29,7 +29,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "e2c268027d63e997ef750bcbc76e9ee29c775b7121a0be28a121bc4f332a7092"
+hash = "1536d819cbc31660c69849ac9a6cc920cf2cef56cd6b20f94e031dd45547bfa0"
 metafile = true
 
 [[files]]
@@ -44,7 +44,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-tis-addition.pw.toml"
-hash = "6ccaab8dfa9fd9276e53728fa4efcbbff7e4daf64f56332a480e135639af5362"
+hash = "2258db577d21fc70af5b9d6556a3892653dbb1d4b80d302362d8b4c829eb68e8"
 metafile = true
 
 [[files]]
@@ -84,7 +84,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
+hash = "a909422ca28880c8aa967a66ca3b89fba223a9cfc662d98592c234d22361cf33"
 metafile = true
 
 [[files]]
@@ -114,7 +114,7 @@ metafile = true
 
 [[files]]
 file = "mods/magiclib.pw.toml"
-hash = "0e4fa72958d991cc521acc77f7e5490e077dbb3083eeb1ed77144ced60511b89"
+hash = "10d69dd759281c13aef1f2325ae210d9e923c871acf8d2e3db68e542d86a4d2f"
 metafile = true
 
 [[files]]
@@ -149,7 +149,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "f9528821aa643fdf06c6ee1a5e5e8a2f401949c557d56bbfd30b38eb165e0d12"
+hash = "e44e1b27a775b9bc5a183f36424b656bd90a47996ef0dd9469dac95531f068c6"
 metafile = true
 
 [[files]]
