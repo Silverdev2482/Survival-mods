@@ -14,10 +14,6 @@ hash = "a5564c08715d227169e33746e3585280999da3279d21f18e86bffa2c18b59fd6"
 metafile = true
 
 [[files]]
-file = "mods/CarpetTCTCAddition-1.20.4-2.2.212+46263e3-stable.jar"
-hash = "998c260b3a4918481800b0e9488136053c5505665dd8b32485281c70d4126d61"
-
-[[files]]
 file = "mods/afkplus.pw.toml"
 hash = "54c7cb7fcc15672dbd910014efccbe8054338248627e654f6c21cb18d1a5c571"
 metafile = true
@@ -29,7 +25,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "1536d819cbc31660c69849ac9a6cc920cf2cef56cd6b20f94e031dd45547bfa0"
+hash = "f4890f49a04d3544634ec7a4a5d6aa31a3c3cd10d1c68db18d38a74a764bbfb7"
 metafile = true
 
 [[files]]
@@ -44,7 +40,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-tis-addition.pw.toml"
-hash = "2258db577d21fc70af5b9d6556a3892653dbb1d4b80d302362d8b4c829eb68e8"
+hash = "bff6c897181f1926e305449a1469e90d0d92adaa7bbd9ac4af6062763847f9ef"
 metafile = true
 
 [[files]]
@@ -59,12 +55,12 @@ metafile = true
 
 [[files]]
 file = "mods/discord-mc-chat.pw.toml"
-hash = "51ac010204bbf9658667526d49466ee176d8d10d5c492162fd3ef9cacad53fdc"
+hash = "499c26c67d4efceb44f15d98bb18bcdb9e069c50da960c49907de613d732c736"
 metafile = true
 
 [[files]]
 file = "mods/elytra-trims.pw.toml"
-hash = "9c0230650fcdae1d0cccd066d7f0d81dd01859960b4b508930e065869e29e73d"
+hash = "5283e4d448d9d607f9b542db172ff537a248d3171da20b0f19f067789b6ba461"
 metafile = true
 
 [[files]]
@@ -79,12 +75,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "fe7dbe82cf758cc6a73e96f57229e6be3696588388da757fbd936ac8c08c224f"
+hash = "dc16bea52f249d03468c8f34ca625b089f163917dbed55ff785a9c09ebe39d3a"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "a909422ca28880c8aa967a66ca3b89fba223a9cfc662d98592c234d22361cf33"
+hash = "4daf4333e077af7302ee17b14c7d45c245b89be171e2f5f9659033a458371cbb"
 metafile = true
 
 [[files]]
@@ -114,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/magiclib.pw.toml"
-hash = "10d69dd759281c13aef1f2325ae210d9e923c871acf8d2e3db68e542d86a4d2f"
+hash = "bbdd8c50e6ca11dc0205e3a47437be78e31c9f314be768957721ac4363f59376"
 metafile = true
 
 [[files]]
@@ -143,13 +139,17 @@ hash = "1df74de5a35d30fc0d6697cc4f8bddbef6b70b477fa4425d99415c86e21ce8f1"
 metafile = true
 
 [[files]]
+file = "mods/router_configuration.nix"
+hash = "3d957539a9407b684951606c0190a25bd3930932a863f2f1019929ab16db330a"
+
+[[files]]
 file = "mods/servux.pw.toml"
 hash = "5e48150b1d407d8dc7ec30e14a6081a506fab1178737a3e6313e4e787c78adbb"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "e44e1b27a775b9bc5a183f36424b656bd90a47996ef0dd9469dac95531f068c6"
+hash = "35f0387f115fd913ce548a3230344d45b5f1b13f4b0fc3467e13b5773ddaa472"
 metafile = true
 
 [[files]]
