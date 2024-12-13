@@ -14,10 +14,6 @@ hash = "a5564c08715d227169e33746e3585280999da3279d21f18e86bffa2c18b59fd6"
 metafile = true
 
 [[files]]
-file = "mods/CarpetTCTCAddition-1.20.4-2.2.212+46263e3-stable.jar"
-hash = "998c260b3a4918481800b0e9488136053c5505665dd8b32485281c70d4126d61"
-
-[[files]]
 file = "mods/afkplus.pw.toml"
 hash = "54c7cb7fcc15672dbd910014efccbe8054338248627e654f6c21cb18d1a5c571"
 metafile = true
@@ -141,6 +137,10 @@ metafile = true
 file = "mods/revert-23w46a.pw.toml"
 hash = "1df74de5a35d30fc0d6697cc4f8bddbef6b70b477fa4425d99415c86e21ce8f1"
 metafile = true
+
+[[files]]
+file = "mods/router_configuration.nix"
+hash = "3d957539a9407b684951606c0190a25bd3930932a863f2f1019929ab16db330a"
 
 [[files]]
 file = "mods/servux.pw.toml"
